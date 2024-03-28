@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**vrojasosorio/vrojasosorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub! Soy estudiante de ingeniería civil en computación en la Universidad de Chile, en mi último año.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Me interesan las áreas de desarrollo de software, robótica, inteligencia artificial y ciencia de datos.  
+🎮 En mi tiempo libre, me gusta jugar videojuegos.  
+🌱 También disfruto pasar tiempo en el jardín, cuidando mis suculentas.  
+🏔️ Me gusta hacer trekking, especialmente en el sur de Chile.   
+🌭 Invítame un completo 
+
+## Contáctame
+
+📫 ¿Quieres ponerte en contacto conmigo? Me encantaría colaborar contigo en proyectos. Además, estoy siempre dispuesta a aprender nuevas cosas y a compartir conocimientos.
+
+¡Gracias por visitar mi perfil! 😄
